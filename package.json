@@ -1,0 +1,15 @@
+{
+  "name": "first-app-hello-world",
+  "version": "1.0.0",
+  "description": "Hello World Electron App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Wpstorm Genius",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^25.3.2"
+  }
+}
